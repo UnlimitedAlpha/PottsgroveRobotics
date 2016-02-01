@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.util.Range;
 /**
  * TeleOp Mode
  * <p>
- * Enables control of the robot via the gamepad
+ * Enables control of the robot via the gamepad woof woof
  */
 public class PottsgroveTeleOp extends OpMode {
 
